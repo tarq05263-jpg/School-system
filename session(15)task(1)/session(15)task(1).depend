@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1756651793 source:c:\users\egypt\desktop\course\c++\session(15)task(1)\src\person.cpp
+	<person.h>
+	<iostream>
+
+1756587177 c:\users\egypt\desktop\course\c++\session(15)task(1)\include\person.h
+	<iostream>
+
+1756912388 source:c:\users\egypt\desktop\course\c++\session(15)task(1)\src\student.cpp
+	<student.h>
+	<iostream>
+
+1756912376 c:\users\egypt\desktop\course\c++\session(15)task(1)\include\student.h
+	<person.h>
+	<iostream>
+
+1756912325 source:c:\users\egypt\desktop\course\c++\session(15)task(1)\main.cpp
+	<student.h>
+	<teacher.h>
+	<staff.h>
+	<School.h>
+	<iostream>
+
+1756587695 c:\users\egypt\desktop\course\c++\session(15)task(1)\include\teacher.h
+	<person.h>
+	<iostream>
+
+1756588393 c:\users\egypt\desktop\course\c++\session(15)task(1)\include\staff.h
+	<person.h>
+	<iostream>
+
+1756588384 source:c:\users\egypt\desktop\course\c++\session(15)task(1)\src\staff.cpp
+	<staff.h>
+	<iostream>
+
+1756587839 source:c:\users\egypt\desktop\course\c++\session(15)task(1)\src\teacher.cpp
+	<teacher.h>
+	<iostream>
+
+1756589862 source:c:\users\egypt\desktop\course\c++\session(15)task(1)\src\classroom.cpp
+	<classroom.h>
+
+1756589866 c:\users\egypt\desktop\course\c++\session(15)task(1)\include\classroom.h
+	<iostream>
+
+1756589835 source:c:\users\egypt\desktop\course\c++\session(15)task(1)\src\course.cpp
+	<course.h>
+
+1756589576 c:\users\egypt\desktop\course\c++\session(15)task(1)\include\course.h
+	<iostream>
+
+1756590083 source:c:\users\egypt\desktop\course\c++\session(15)task(1)\src\exam.cpp
+	<exam.h>
+
+1756589976 c:\users\egypt\desktop\course\c++\session(15)task(1)\include\exam.h
+	<iostream>
+
+1756912190 c:\users\egypt\desktop\course\c++\session(15)task(1)\include\school.h
+	<iostream>
+	<string>
+	"Student.h"
+
